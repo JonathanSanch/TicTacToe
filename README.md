@@ -1,4 +1,4 @@
-<h1 align = "center">TicTacToe</h1>
+<h1 align = "center">TicTacToe - OOP</h1>
 
 Java practice for upcoming semester
 
